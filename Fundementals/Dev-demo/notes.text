@@ -1,0 +1,11 @@
+created 2 classes
+    Developer and Project
+created attributes for each class
+    Developer - public attributes: Sting name, int yearsOfExperience, double hoursOfSleep, dynamic array of languages
+    Project - title, languages
+created methods for each class
+created arraylist and initialized int
+    if we dont, pulls null value
+added to arraylist
+used for loops thru them
+done test in devtest file
